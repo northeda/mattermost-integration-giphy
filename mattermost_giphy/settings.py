@@ -14,7 +14,7 @@ RATING = os.environ.get('RATING', 'pg')
 SCHEME = os.environ.get('SCHEME', 'https')
 
 # the is a public beta key from giphy api
-GIPHY_API_KEY = os.environ.get('GIPHY_API_KEY', 'dc6zaTOxFJmzC')
+GIPHY_API_KEY = os.environ.get('GIPHY_API_KEY', 'iTWa56Bc4PlX84Ad6NfROpDbiWSnNdeS')
 
 # the Mattermost token or tokens generated when you created your outgoing webhook
 # multiple tokens needs to be separated by a colon
